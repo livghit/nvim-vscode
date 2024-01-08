@@ -1,5 +1,5 @@
 # Nvim-Code
-<kbd>
+<kbd align="center">
 <img src="https://github.com/livghit/nvim-vscode/assets/108449432/77040f7a-a35e-4804-8ebf-ff8abda4c5f2" width="550" />
 </kbd>
 
